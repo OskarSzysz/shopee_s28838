@@ -1,13 +1,13 @@
-package pl.pjatk.shopee_s28838.service;
+package pl.pjatk.shopee_s28838;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
-import pl.pjatk.shopee_s28838.model.Cart;
-import pl.pjatk.shopee_s28838.model.Customer;
-import pl.pjatk.shopee_s28838.model.Product;
-import pl.pjatk.shopee_s28838.storage.Storage;
+import pl.pjatk.shopee_s28838.Cart;
+import pl.pjatk.shopee_s28838.Customer;
+import pl.pjatk.shopee_s28838.Product;
+import pl.pjatk.shopee_s28838.Storage;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;

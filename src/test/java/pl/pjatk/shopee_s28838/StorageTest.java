@@ -1,8 +1,8 @@
-package pl.pjatk.shopee_s28838.storage;
+package pl.pjatk.shopee_s28838;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import pl.pjatk.shopee_s28838.model.Product;
+import pl.pjatk.shopee_s28838.Product;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;

@@ -1,16 +1,16 @@
-package pl.pjatk.shopee_s28838.service;
+package pl.pjatk.shopee_s28838;
 
 import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Optional;
-import pl.pjatk.shopee_s28838.model.Cart;
-import pl.pjatk.shopee_s28838.model.Product;
-import pl.pjatk.shopee_s28838.storage.Storage;
+import pl.pjatk.shopee_s28838.Cart;
+import pl.pjatk.shopee_s28838.Product;
+import pl.pjatk.shopee_s28838.Storage;
 
 @Service
 public class ShopService {
     private Storage storage;
-     
+
     public ShopService(Storage storage) {
         this.storage = storage;
     }

@@ -1,4 +1,4 @@
-package pl.pjatk.shopee_s28838.model;
+package pl.pjatk.shopee_s28838;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

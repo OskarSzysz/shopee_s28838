@@ -1,4 +1,4 @@
-package pl.pjatk.shopee_s28838.model;
+package pl.pjatk.shopee_s28838;
 
 public class Product {
     private String name;

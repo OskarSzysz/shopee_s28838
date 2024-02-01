@@ -2,10 +2,10 @@ package pl.pjatk.shopee_s28838;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import pl.pjatk.shopee_s28838.model.Cart;
-import pl.pjatk.shopee_s28838.model.Customer;
-import pl.pjatk.shopee_s28838.service.ShopService;
-import pl.pjatk.shopee_s28838.storage.Storage;
+import pl.pjatk.shopee_s28838.Cart;
+import pl.pjatk.shopee_s28838.Customer;
+import pl.pjatk.shopee_s28838.ShopService;
+import pl.pjatk.shopee_s28838.Storage;
 
 @SpringBootApplication
 public class shopee_s28838 {
